@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: Jieshao
+name: JunJie Huang
+description: github简易主页
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/LY1806620741
 rss: true
 
 plugins:
